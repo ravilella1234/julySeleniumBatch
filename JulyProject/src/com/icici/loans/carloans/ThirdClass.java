@@ -7,6 +7,12 @@ public class ThirdClass {
 		System.out.println("iam first line");
 		System.out.println("iam second line");
 		
+		
+		
+		
+		
+		
+		
 	}
 
 }
