@@ -6,7 +6,6 @@ public class ThirdClass {
 		// TODO Auto-generated method stub
 		System.out.println("iam first line");
 		System.out.println("iam second line");
-		System.out.println("iam third line");
 		
 	}
 
